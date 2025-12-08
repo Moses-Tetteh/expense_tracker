@@ -1,6 +1,22 @@
 """
 Pytest configuration for the expense_tracker project.
 """
+import os
+import sys
+import django
+from django.conf import settings
+
+# Add project root to sys.path
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, project_root)
+
+# Configure Django settings
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'expense_tracker.settings.development')
+
+# Initialize Django
+if not settings.configured:
+    django.setup()
+
 import pytest
 from django.contrib.auth.models import User
 

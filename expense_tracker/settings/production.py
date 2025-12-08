@@ -79,19 +79,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-# Caching with Redis
-CACHES = {
-    'default': {
-        'BACKEND': 'django_redis.cache.RedisCache',
-        'LOCATION': config('REDIS_URL', default='redis://127.0.0.1:6379/1'),
-        'OPTIONS': {
-            'CLIENT_CLASS': 'django_redis.client.DefaultClient',
-            'SOCKET_CONNECT_TIMEOUT': 5,
-            'SOCKET_TIMEOUT': 5,
-        },
-        'KEY_PREFIX': 'expense_tracker',
-    }
-}
 
 # Session backend using cache
 SESSION_ENGINE = 'django.contrib.sessions.backends.cache'

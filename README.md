@@ -17,7 +17,6 @@ A production-ready Django web application for tracking daily expenses with user 
 
 - **Python 3.10, 3.11, or 3.12** (Python 3.14+ not yet supported by Django 5.0)
 - PostgreSQL 13+ (for production)
-- Redis (for caching in production)
 
 ## 📁 Project Structure
 
@@ -249,7 +248,6 @@ DB_PASSWORD=secure_password
 DB_HOST=db
 DB_PORT=5432
 
-REDIS_URL=redis://redis:6379/1
 ```
 
 ### Deployment Checklist
@@ -258,7 +256,6 @@ REDIS_URL=redis://redis:6379/1
 - [ ] Configure `SECRET_KEY` with a strong random value
 - [ ] Set `ALLOWED_HOSTS` to your domain
 - [ ] Configure PostgreSQL database
-- [ ] Set up Redis for caching
 - [ ] Configure email settings for error notifications
 - [ ] Run `collectstatic` to gather static files
 - [ ] Set up SSL/TLS certificates
@@ -304,5 +301,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Django framework
 - Bootstrap for UI components
 - PostgreSQL database
-- Redis for caching
 - Gunicorn and Nginx for production serving
