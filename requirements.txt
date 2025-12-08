@@ -1,0 +1,25 @@
+# Core Django
+# NOTE: Requires Python 3.10, 3.11, or 3.12 (Python 3.14 not yet supported)
+Django>=5.0,<5.1
+python-decouple>=3.8
+psycopg2-binary>=2.9.9  # PostgreSQL adapter
+
+# Static files
+whitenoise>=6.6.0
+
+# Forms
+django-crispy-forms>=2.1
+crispy-bootstrap5>=2.0.0
+
+# Production server
+gunicorn>=21.2.0
+
+# Caching
+django-redis>=5.4.0
+redis>=5.0.1
+
+# Security & monitoring (optional but recommended)
+sentry-sdk>=1.39.0
+
+# Development tools (optional)
+django-extensions>=3.2.3

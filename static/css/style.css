@@ -1,0 +1,51 @@
+/* Custom Styles */
+.category-badge {
+    padding: 0.5em 1em;
+    border-radius: 20px;
+    font-size: 0.9em;
+}
+
+.expense-card {
+    transition: transform 0.2s;
+}
+
+.expense-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.chart-container {
+    position: relative;
+    height: 300px;
+    width: 100%;
+}
+
+.stat-card {
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.stat-card.total {
+    background: linear-gradient(45deg, #4e54c8, #8f94fb);
+}
+
+.stat-card.weekly {
+    background: linear-gradient(45deg, #11998e, #38ef7d);
+}
+
+.stat-card.monthly {
+    background: linear-gradient(45deg, #ff416c, #ff4b2b);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .sidebar {
+        position: static;
+        width: 100% !important;
+    }
+    .main-content {
+        margin-left: 0 !important;
+    }
+}

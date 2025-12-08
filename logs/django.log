@@ -1,0 +1,172 @@
+INFO 2025-12-07 13:25:37,339 autoreload 16174 131019410641024 Watching for file changes with StatReloader
+INFO 2025-12-07 13:34:09,679 autoreload 17193 135349321728128 Watching for file changes with StatReloader
+INFO 2025-12-07 13:34:48,779 autoreload 17313 135501240447104 Watching for file changes with StatReloader
+INFO 2025-12-07 13:35:07,691 autoreload 17325 139376361562240 Watching for file changes with StatReloader
+INFO 2025-12-07 13:35:43,001 autoreload 17406 123178872295552 Watching for file changes with StatReloader
+INFO 2025-12-07 14:38:23,710 autoreload 3837 140323303145600 Watching for file changes with StatReloader
+INFO 2025-12-07 14:38:28,266 log 3837 140323252029120 "GET / HTTP/1.1" 302 0
+INFO 2025-12-07 14:38:28,335 log 3837 140323252029120 "GET /login/?next=/ HTTP/1.1" 200 2837
+WARNING 2025-12-07 14:38:28,560 log 3837 140323252029120 "GET /favicon.ico HTTP/1.1" 404 3773
+INFO 2025-12-07 14:38:43,853 log 3837 140323252029120 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:38:43,875 log 3837 140323252029120 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4093
+INFO 2025-12-07 14:38:43,959 log 3837 140323252029120 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-12-07 14:38:43,966 log 3837 140323243636416 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-12-07 14:38:43,971 log 3837 140323234195136 "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 2025-12-07 14:38:43,972 log 3837 140323243636416 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-12-07 14:38:43,975 log 3837 140323024008896 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:38:43,976 log 3837 140323234195136 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-12-07 14:38:44,011 log 3837 140323252029120 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:38:58,798 log 3837 140323252029120 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:38:58,819 log 3837 140323252029120 "GET /admin/ HTTP/1.1" 200 7056
+INFO 2025-12-07 14:38:59,000 log 3837 140323252029120 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-12-07 14:38:59,013 log 3837 140323252029120 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-12-07 14:38:59,014 log 3837 140323234195136 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:01,949 log 3837 140323252029120 "GET /admin/expenses/expense/ HTTP/1.1" 200 11367
+INFO 2025-12-07 14:39:01,980 log 3837 140323234195136 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:01,980 log 3837 140323243636416 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:01,994 log 3837 140323243636416 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:01,994 log 3837 140323234195136 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:01,998 log 3837 140323024008896 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:01,999 log 3837 140323014567616 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:01,999 log 3837 140323006174912 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:02,006 log 3837 140323024008896 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:02,007 log 3837 140323014567616 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:02,009 log 3837 140323252029120 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:39:02,009 log 3837 140323006174912 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:02,062 log 3837 140323252029120 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:02,085 log 3837 140323014567616 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:02,085 log 3837 140323006174912 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:04,633 log 3837 140323006174912 "GET /admin/auth/user/ HTTP/1.1" 200 11414
+INFO 2025-12-07 14:39:04,660 log 3837 140323006174912 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:04,679 log 3837 140323014567616 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-12-07 14:39:10,394 log 3837 140323006174912 "GET /signup/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:39:10,416 log 3837 140323006174912 "GET / HTTP/1.1" 200 5798
+INFO 2025-12-07 14:39:21,813 log 3837 140323006174912 "POST /logout/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:39:21,822 log 3837 140323006174912 "GET /login/ HTTP/1.1" 200 2837
+INFO 2025-12-07 14:39:24,824 log 3837 140323006174912 "GET /signup/ HTTP/1.1" 200 4286
+INFO 2025-12-07 14:40:00,982 log 3837 140323006174912 "POST /signup/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:40:00,997 log 3837 140323006174912 "GET / HTTP/1.1" 200 6158
+INFO 2025-12-07 14:40:09,047 log 3837 140323006174912 "GET /add/ HTTP/1.1" 200 4212
+INFO 2025-12-07 14:40:32,323 log 3837 140323006174912 "POST /add/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:40:32,336 log 3837 140323006174912 "GET / HTTP/1.1" 200 6671
+INFO 2025-12-07 14:40:37,386 log 3837 140323006174912 "GET /admin/auth/user/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:40:37,403 log 3837 140323006174912 "GET /admin/login/?next=/admin/auth/user/ HTTP/1.1" 200 3631
+INFO 2025-12-07 14:40:52,079 log 3837 140323006174912 "POST /admin/login/?next=/admin/auth/user/ HTTP/1.1" 302 0
+INFO 2025-12-07 14:40:52,097 log 3837 140323006174912 "GET /admin/auth/user/ HTTP/1.1" 200 11711
+INFO 2025-12-07 14:40:52,198 log 3837 140323006174912 "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+INFO 2025-12-07 14:40:57,433 log 3837 140323006174912 "GET /admin/expenses/expense/ HTTP/1.1" 200 14872
+INFO 2025-12-07 14:40:57,462 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:41:16,957 log 3837 140323006174912 "GET /admin/expenses/expense/?o=4.-5.-6 HTTP/1.1" 200 15642
+INFO 2025-12-07 14:41:16,987 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:41:19,611 log 3837 140323006174912 "GET /admin/expenses/expense/?o=3.4.-5.-6 HTTP/1.1" 200 16030
+INFO 2025-12-07 14:41:19,639 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:41:28,035 log 3837 140323006174912 "GET /admin/expenses/expense/1/change/?_changelist_filters=o%3D3.4.-5.-6 HTTP/1.1" 200 16945
+INFO 2025-12-07 14:41:28,059 log 3837 140323006174912 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-12-07 14:41:28,071 log 3837 140323252029120 "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:41:28,072 log 3837 140323243636416 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:41:28,074 log 3837 140323024008896 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:41:28,081 log 3837 140323014567616 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:41:28,090 log 3837 140323014567616 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:41:28,105 log 3837 140323006174912 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-12-07 14:41:28,199 log 3837 140323006174912 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2025-12-07 14:41:48,671 log 3837 140323006174912 "POST /admin/expenses/expense/1/change/?_changelist_filters=o%3D3.4.-5.-6 HTTP/1.1" 302 0
+INFO 2025-12-07 14:41:48,699 log 3837 140323006174912 "GET /admin/expenses/expense/?o=3.4.-5.-6 HTTP/1.1" 200 16267
+INFO 2025-12-07 14:41:48,774 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:41:48,852 log 3837 140323006174912 "GET /static/admin/img/icon-yes-dark.svg HTTP/1.1" 200 558
+INFO 2025-12-07 14:42:47,450 log 3837 140323006174912 "GET /admin/expenses/expense/?o=-4.3.-5.-6 HTTP/1.1" 200 16069
+INFO 2025-12-07 14:42:47,502 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:42:50,170 log 3837 140323006174912 "GET /admin/expenses/expense/?o=5.-4.3.-6 HTTP/1.1" 200 16030
+INFO 2025-12-07 14:42:50,212 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:42:54,695 log 3837 140323006174912 "GET /admin/expenses/expense/?o=-5.-4.3.-6 HTTP/1.1" 200 16069
+INFO 2025-12-07 14:42:54,724 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:42:58,542 log 3837 140323006174912 "GET /admin/expenses/expense/?o=-5.4.3.-6 HTTP/1.1" 200 16030
+INFO 2025-12-07 14:42:58,578 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:43:01,808 log 3837 140323006174912 "GET /admin/expenses/expense/?o=-5.3.-6 HTTP/1.1" 200 15642
+INFO 2025-12-07 14:43:01,842 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:43:04,034 log 3837 140323006174912 "GET /admin/expenses/expense/?o=4.-5.3.-6 HTTP/1.1" 200 16030
+INFO 2025-12-07 14:43:04,064 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:43:09,322 log 3837 140323006174912 "GET /admin/expenses/expense/?o=-3.4.-5.-6 HTTP/1.1" 200 16069
+INFO 2025-12-07 14:43:09,353 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:43:12,052 log 3837 140323006174912 "GET /admin/expenses/expense/1/change/?_changelist_filters=o%3D-3.4.-5.-6 HTTP/1.1" 200 16948
+INFO 2025-12-07 14:43:12,099 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:44:15,263 log 3837 140323006174912 "GET /admin/expenses/expense/ HTTP/1.1" 200 14872
+INFO 2025-12-07 14:44:15,308 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:44:17,486 log 3837 140323006174912 "GET /admin/auth/user/ HTTP/1.1" 200 11711
+INFO 2025-12-07 14:44:20,438 log 3837 140323006174912 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 21207
+INFO 2025-12-07 14:44:20,477 log 3837 140323014567616 "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:44:20,482 log 3837 140323024008896 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO 2025-12-07 14:44:20,484 log 3837 140323006174912 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:44:20,588 log 3837 140323006174912 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+WARNING 2025-12-07 14:44:38,232 log 3837 140323006174912 "POST /admin/auth/user/2/change/ HTTP/1.1" 403 135
+INFO 2025-12-07 14:44:40,709 log 3837 140323006174912 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 21207
+INFO 2025-12-07 14:44:41,758 log 3837 140323006174912 "GET /admin/auth/user/ HTTP/1.1" 200 11711
+INFO 2025-12-07 14:46:17,765 autoreload 3837 140323303145600 /home/fearless/Desktop/expense_tracker/expenses/models.py changed, reloading.
+INFO 2025-12-07 14:46:18,223 autoreload 4232 136127526994048 Watching for file changes with StatReloader
+INFO 2025-12-07 14:47:21,913 autoreload 4232 136127526994048 /home/fearless/Desktop/expense_tracker/expenses/admin.py changed, reloading.
+INFO 2025-12-07 14:47:22,371 autoreload 4249 139096550023296 Watching for file changes with StatReloader
+INFO 2025-12-07 14:47:30,913 log 4249 139096498935488 "GET /admin/auth/user/ HTTP/1.1" 200 11613
+INFO 2025-12-07 14:47:34,590 log 4249 139096498935488 "GET /admin/expenses/expense/ HTTP/1.1" 200 13685
+INFO 2025-12-07 14:47:37,229 log 4249 139096498935488 "GET /admin/expenses/expense/1/change/ HTTP/1.1" 200 16568
+INFO 2025-12-07 14:47:37,263 log 4249 139096498935488 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:48:17,271 log 4249 139096498935488 "GET /admin/expenses/expense/1/change/ HTTP/1.1" 200 16568
+INFO 2025-12-07 14:48:17,310 log 4249 139096498935488 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:48:18,493 log 4249 139096498935488 "GET /admin/expenses/expense/1/change/ HTTP/1.1" 200 16568
+INFO 2025-12-07 14:48:18,530 log 4249 139096498935488 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:48:19,297 log 4249 139096498935488 "GET /admin/expenses/expense/1/change/ HTTP/1.1" 200 16568
+INFO 2025-12-07 14:48:19,323 log 4249 139096498935488 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:48:20,648 log 4249 139096498935488 "GET /admin/expenses/expense/ HTTP/1.1" 200 13685
+INFO 2025-12-07 14:48:22,795 log 4249 139096498935488 "GET /admin/expenses/expense/1/change/ HTTP/1.1" 200 16568
+INFO 2025-12-07 14:48:22,824 log 4249 139096498935488 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 14:48:27,993 log 4249 139096498935488 "GET /admin/auth/user/2/change/?_to_field=id&_popup=1 HTTP/1.1" 200 16500
+INFO 2025-12-07 14:48:28,022 log 4249 139096498935488 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2025-12-07 14:48:36,542 log 4249 139096498935488 "POST /admin/auth/user/2/change/?_to_field=id&_popup=1 HTTP/1.1" 403 135
+INFO 2025-12-07 14:48:54,200 log 4249 139096498935488 "GET /admin/ HTTP/1.1" 200 7377
+INFO 2025-12-07 14:49:19,510 autoreload 4249 139096550023296 /home/fearless/Desktop/expense_tracker/expenses/admin.py changed, reloading.
+INFO 2025-12-07 14:49:19,970 autoreload 4332 125354731237504 Watching for file changes with StatReloader
+INFO 2025-12-07 18:52:21,288 autoreload 4332 125354731237504 /home/fearless/Desktop/expense_tracker/expenses/views.py changed, reloading.
+INFO 2025-12-07 18:52:21,727 autoreload 5171 138105547542656 Watching for file changes with StatReloader
+INFO 2025-12-07 18:52:45,113 autoreload 5171 138105547542656 /home/fearless/Desktop/expense_tracker/expenses/models.py changed, reloading.
+INFO 2025-12-07 18:52:45,547 autoreload 5189 135972097802368 Watching for file changes with StatReloader
+INFO 2025-12-07 18:53:24,016 autoreload 5189 135972097802368 /home/fearless/Desktop/expense_tracker/expenses/models.py changed, reloading.
+INFO 2025-12-07 18:53:24,451 autoreload 5196 139186876022912 Watching for file changes with StatReloader
+INFO 2025-12-07 18:53:25,633 autoreload 5196 139186876022912 /home/fearless/Desktop/expense_tracker/expenses/models.py changed, reloading.
+INFO 2025-12-07 18:53:26,063 autoreload 5198 126787744178304 Watching for file changes with StatReloader
+INFO 2025-12-07 18:53:53,473 autoreload 5198 126787744178304 /home/fearless/Desktop/expense_tracker/expenses/forms.py changed, reloading.
+INFO 2025-12-07 18:53:53,908 autoreload 5208 140287824482432 Watching for file changes with StatReloader
+INFO 2025-12-07 18:54:15,259 autoreload 5208 140287824482432 /home/fearless/Desktop/expense_tracker/expenses/forms.py changed, reloading.
+INFO 2025-12-07 18:54:15,712 autoreload 5215 135148989620352 Watching for file changes with StatReloader
+INFO 2025-12-07 19:43:31,669 autoreload 5215 135148989620352 /home/fearless/Desktop/expense_tracker/expenses/admin.py changed, reloading.
+INFO 2025-12-07 19:43:32,117 autoreload 6174 131195954278528 Watching for file changes with StatReloader
+INFO 2025-12-07 19:43:41,846 log 6174 131195903153856 "GET /admin/ HTTP/1.1" 200 7377
+INFO 2025-12-07 19:43:41,872 log 6174 131195903153856 "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:41,879 log 6174 131195681633984 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:41,882 log 6174 131195894761152 "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:41,884 log 6174 131195664848576 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:41,884 log 6174 131195673241280 "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:41,886 log 6174 131195656455872 "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:41,893 log 6174 131195656455872 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:41,924 log 6174 131195903153856 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:41,925 log 6174 131195673241280 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,171 log 6174 131195673241280 "GET /admin/expenses/expense/ HTTP/1.1" 200 13685
+INFO 2025-12-07 19:43:44,194 log 6174 131195673241280 "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,205 log 6174 131195903153856 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,210 log 6174 131195656455872 "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,211 log 6174 131195894761152 "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,213 log 6174 131195664848576 "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,214 log 6174 131195903153856 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,213 log 6174 131195681633984 "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,217 log 6174 131195656455872 "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,218 log 6174 131195894761152 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,259 log 6174 131195656455872 "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,266 log 6174 131195894761152 "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,278 log 6174 131195903153856 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:44,279 log 6174 131195673241280 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:46,281 log 6174 131195903153856 "GET /admin/expenses/expense/1/change/ HTTP/1.1" 200 14343
+INFO 2025-12-07 19:43:46,305 log 6174 131195903153856 "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:46,308 log 6174 131195656455872 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:46,313 log 6174 131195894761152 "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-07 19:43:46,323 log 6174 131195894761152 "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-12-07 19:43:46,349 log 6174 131195903153856 "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-12-07 19:44:05,619 autoreload 6174 131195954278528 /home/fearless/Desktop/expense_tracker/expenses/admin.py changed, reloading.
+INFO 2025-12-07 19:44:06,090 autoreload 6206 135612409778304 Watching for file changes with StatReloader
+INFO 2025-12-07 20:42:52,863 autoreload 6825 137124013510784 Watching for file changes with StatReloader
